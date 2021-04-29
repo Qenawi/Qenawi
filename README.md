@@ -1,15 +1,15 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-<a href="https://discord.gg/XTW52Kt">
-  <img align="left" alt="Abhishek's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+<a href="https://stackoverflow.com/users/8332839/ahmed-mohamed-hussien">
+  <img align="left" alt="Qenawi | Stack" width="22px" src="https://cdn.sstatic.net/Sites/stackoverflow/Img/apple-touch-icon@2.png?v=73d79a89bded" />
 </a>
-<a href="https://twitter.com/abhisheknaiidu">
-  <img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+<a href="https://leetcode.com/qenawi-cs">
+  <img align="left" alt="Qenawi | LetCode" width="22px" src="https://media-exp1.licdn.com/dms/image/C4E0BAQFvx45x7j4Zhg/company-logo_200_200/0/1519864832328?e=2159024400&v=beta&t=bn7GubuOuUXMKQ6YZxs23WZMabMviFMT7grLqM6_TC0" />
 </a>
-<a href="https://www.linkedin.com/in/abhisheknaiidu/">
-  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+<a href="https://www.linkedin.com/in/ahmed-mohamed-qenawi-803b73136">
+  <img align="left" alt="Qenawi's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<a href="https://open.spotify.com/user/e90fe4zsndbm6xoe2t7t8kogf?si=WaLKpwvWTle0btle2qPb6g">
-  <img align="left" alt="Abhishek's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
+<a href="https://medium.com/@Qenawi">
+  <img align="left" alt="Qenawi Medium" width="22px" src="https://cdn0.iconfinder.com/data/icons/social-media-2092/100/social-62-512.png" />
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=qenawi.qenawi)
@@ -48,8 +48,7 @@ Shell        12 mins         ▒░░░░░░░░░░░░░░░░
 ```
 <!--END_SECTION:waka-->
 
-If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
-👉On progress👈
+
 
 🚧 **My Todoist Stats:**
 <!-- TODO-IST:START -->
