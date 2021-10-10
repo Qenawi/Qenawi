@@ -38,21 +38,19 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-📊 **This Week I Spent My Time On:**
-<!--START_SECTION:waka-->
-```text
-Kotlin   8 hrs 54 mins   █████████████░░░░░░░░░░░░   51.78 % 
-Python          4 hrs 57 mins   ███████▒░░░░░░░░░░░░░░░░░   28.79 % 
-Docker        2 hrs 57 mins   ████▒░░░░░░░░░░░░░░░░░░░░   55.22 % 
-Shell        12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.17 % 
-```
-<!--END_SECTION:waka-->
-
-
-
 🚧 **My Todoist Stats:**
 <!-- TODO-IST:START -->
-🏆  1000 Star    🌸 Completed 20 tasks today    ✅ Completed 2800 tasks so far           
+
+ <dl>
+  <dt>Long Term </dt>
+  <dd>🤳 work @Google as SWE</dd>
+  <dd>✈️ relocate to Germany or Russia</dd>
+  <dd>🔥 start my carrer as Data - Scintest</dd>
+  <dt>Short Term (MAX 3)</dt>
+  <dd>🐰 DataScince from scratch Book (51/360)</dd>
+  <dd>🧡 build Youtube alternative application - KT / Server - Django </dd>
+  <dd>🌜 Islamic Conqers history "for mahmoud shaker" Book (10/300)</dd>
+</dl>      
 <!-- TODO-IST:END -->
 
 
