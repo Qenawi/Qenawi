@@ -5,9 +5,7 @@
 <a href="https://leetcode.com/qenawi-cs">
   <img align="left" alt="Qenawi | LetCode" width="22px" src="https://media-exp1.licdn.com/dms/image/C4E0BAQFvx45x7j4Zhg/company-logo_200_200/0/1519864832328?e=2159024400&v=beta&t=bn7GubuOuUXMKQ6YZxs23WZMabMviFMT7grLqM6_TC0" />
 </a>
-<a href="https://www.linkedin.com/in/ahmed-mohamed-qenawi-803b73136">
-  <img align="left" alt="Qenawi's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
+
 <a href="https://medium.com/@Qenawi">
   <img align="left" alt="Qenawi Medium" width="22px" src="https://cdn0.iconfinder.com/data/icons/social-media-2092/100/social-62-512.png" />
 </a>
